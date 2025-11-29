@@ -1,0 +1,14 @@
+{
+    "Alice": {
+        "strength": 80,
+        "agility": 70,
+        "intelligence": 90,
+        "health": 100
+    },
+    "Konor": {
+        "strength": 90,
+        "agility": 60,
+        "intelligence": 80,
+        "health": 100
+    }
+}

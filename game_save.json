@@ -1,0 +1,13 @@
+{
+  "characters": {
+    "Alice": {
+      "health": 100
+    },
+    "Konor": {
+      "health": 20
+    }
+  },
+  "game_log": [
+    "Alice attacks Konor for 80 damage. Konor HP: 20/100"
+  ]
+}
